@@ -1,8 +1,8 @@
-#API CONCURSO FENADOCE
+# API CONCURSO FENADOCE
 
 Uma api simples de aprendizado que simula o concruso da fenadoce.
 
-##Recursos
+## Recursos
 
 - Express
 - Prisma
